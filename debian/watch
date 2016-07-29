@@ -1,0 +1,3 @@
+version=3
+https://github.com/solus-project/budgie-desktop/releases .*/?(\d{2}\.\d.\d)\.tar\.xz
+  
